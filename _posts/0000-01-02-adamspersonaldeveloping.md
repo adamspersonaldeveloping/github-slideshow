@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-
+peace be on you, I am finally on step 7!
 Use the right arrow to begin!
 
 ---
